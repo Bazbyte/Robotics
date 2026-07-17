@@ -83,7 +83,6 @@ Transformed traditional 2D mechanical specifications into a fully realized 3D pa
 # 1. 🚗 Automated Garage Door Control System (PLC)
 
 **Status:** Completed | **Category:** Industrial Automation & Systems Integration | **Tech Stack:** PLC Ladder Logic, Sensor Interlocking, Counter/Timer Logic
-****
 
 ### **📝 Overview**
 
