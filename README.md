@@ -46,7 +46,7 @@ Engineered an automated control system for a residential or commercial garage do
 
 ### 📥 [**Click to Download PLC Source Archive (.pcwex)**](https://github.com/Bazbyte/Robotics/blob/977ecc580e18a022490b780ad2c1edc0b48fc8f6/PLC/GarageDoor_ZC.pcwex)
 
-2. # 🌡️ Automated Temperature Control System (PLC)
+# 2. 🌡️ Automated Temperature Control System (PLC)
 
 **Status:** Completed | **Category:** Industrial Automation | **Tech Stack:** PLC Ladder Logic, Analog Sensor Integration
 
