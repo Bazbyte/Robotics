@@ -7,7 +7,7 @@
 
 Engineered an automated control system for a residential or commercial garage door utilizing a Programmable Logic Controller (PLC). The system integrates intelligent vehicle detection, sequential control logic, and strict physical safety interlocks to manage automated entry/exit sequences alongside manual user overrides.
 
-![PLC/Garage Door Control.png](Garage_Door_Control.png)
+![Garage Door Control.png](PLC/Garage_Door_Control.png)
 
 **🛠 Key Features**
 
