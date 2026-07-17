@@ -35,7 +35,7 @@ Engineered an automated control system for a residential or commercial garage do
 | `O_Contactor_Open` | Output (Actuator) | Drives motor upward (Interlocked against Closing output) |
 | `O_Contactor_Close` | Output (Actuator) | Drives motor downward (Interlocked against Opening output) |
 
-![Garage Door Control_Code_ZC.png](Garage_Door_Control_Code_ZC.png)
+![Garage Door Control_Code_ZC.png](PLC/Garage_Door_Control_Code_ZC.png)
 
 ### 💡 Engineering Approach
 
