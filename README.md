@@ -78,6 +78,8 @@ Transformed traditional 2D mechanical specifications into a fully realized 3D pa
 [Click to Download The Project 3 Drawing (.dwg)](https://github.com/Bazbyte/Robotics/blob/99a96dfcde5d9d4f7b8a36a6271c357e5d00ea2b/AUTOCAD/3D%20Parametric%20Mechanical%20Modeling%20%26%20Visualization_ZC.dwg)
 
 </aside>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1. 🚗 Automated Garage Door Control System (PLC)
 
 **Status:** Completed | **Category:** Industrial Automation & Systems Integration | **Tech Stack:** PLC Ladder Logic, Sensor Interlocking, Counter/Timer Logic
