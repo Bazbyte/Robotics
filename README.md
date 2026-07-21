@@ -49,7 +49,7 @@ Developed a highly complex, production-ready 2D multi-view orthographic drawing 
 
 <aside>
 
-### 📥 [**Click to Download Project 2 Drawing (.dwg)**] (https://github.com/Bazbyte/Robotics/blob/a6dc4e43faf161cc26f82496a72bffa6db6596e6/AUTOCAD/Multi-View%20Orthographic%20Component%20Drafting_ZC.dwg)
+### 📥 [**Click to Download Project 2 Drawing (.dwg)**](https://github.com/Bazbyte/Robotics/blob/a6dc4e43faf161cc26f82496a72bffa6db6596e6/AUTOCAD/Multi-View%20Orthographic%20Component%20Drafting_ZC.dwg)
 
 </aside>
 
@@ -72,7 +72,7 @@ Transformed traditional 2D mechanical specifications into a fully realized 3D pa
 
 <aside>
 
-### 📥 [**Click to Download Project 3 Drawing (.dwg)**] ((https://github.com/Bazbyte/Robotics/blob/99a96dfcde5d9d4f7b8a36a6271c357e5d00ea2b/AUTOCAD/3D%20Parametric%20Mechanical%20Modeling%20%26%20Visualization_ZC.dwg)
+### 📥 [**Click to Download Project 3 Drawing (.dwg)**](https://github.com/Bazbyte/Robotics/blob/99a96dfcde5d9d4f7b8a36a6271c357e5d00ea2b/AUTOCAD/3D%20Parametric%20Mechanical%20Modeling%20%26%20Visualization_ZC.dwg)
 
 </aside>
 
