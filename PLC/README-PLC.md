@@ -7,7 +7,7 @@
 
 Engineered an automated control system for a residential or commercial garage door utilizing a Programmable Logic Controller (PLC). The system integrates intelligent vehicle detection, sequential control logic, and strict physical safety interlocks to manage automated entry/exit sequences alongside manual user overrides.
 
-![Garage Door Control.png](PLC/Garage_Door_Control.png)
+![Garage Door Control.png](Garage_Door_Control.png)
 
 **🛠 Key Features**
 
@@ -35,7 +35,7 @@ Engineered an automated control system for a residential or commercial garage do
 | `O_Contactor_Open` | Output (Actuator) | Drives motor upward (Interlocked against Closing output) |
 | `O_Contactor_Close` | Output (Actuator) | Drives motor downward (Interlocked against Opening output) |
 
-![Garage Door Control_Code_ZC.png](PLC/Garage_Door_Control_Code_ZC.png)
+![Garage Door Control_Code_ZC.png](Garage_Door_Control_Code_ZC.png)
 
 ### 💡 Engineering Approach
 
@@ -81,7 +81,7 @@ Developed a robust Programmable Logic Controller (PLC) application designed to m
 | **Heating** | Temp > 20°C | OFF |
 | **Alarm** | Temp < 10°C or > 35°C | High-Frequency Flash + Buzzer |
 
-![Temperature Control_LDCode_ZC.png](PLC/Temperature_Control_LDCode_ZC.png)
+![Temperature Control_LDCode_ZC.png](Temperature_Control_LDCode_ZC.png)
 
 ### 💡 Engineering Approach
 
