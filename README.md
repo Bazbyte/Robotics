@@ -102,16 +102,19 @@ Engineered an automated control system for a residential or commercial garage do
 
 ### **📂 System Component & I/O MappingTag NameDevice TypeFunction**
 
-| **Tag Name** | **Device Type** | **Function Description** |
-| --- | --- | --- |
-| `I_Upper_Limit` | Input (NC/NO Switch) | Detects fully open door state; cuts opening contactor power |
-| `I_Lower_Limit` | Input (NC/NO Switch) | Detects fully closed door state; cuts closing contactor power |
-| `I_Sen_1` | Input (Photoelectric) | External light sensor; counts headlight pulses (3 pulses / 5s) |
-| `I_Sen_2` | Input (Proximity/Loop) | Internal vehicle detection sensor; triggers auto-close |
-| `I_PB_Open` | Input (Momentary NO) | External green pushbutton; initiates manual opening sequence |
-| `I_PB_Close` | Input (Momentary NO) | External blue pushbutton; initiates manual closing sequence |
-| `O_Contactor_Open` | Output (Actuator) | Drives motor upward (Interlocked against Closing output) |
-| `O_Contactor_Close` | Output (Actuator) | Drives motor downward (Interlocked against Opening output) |
+| Tag Name | Device Type | Function Description |
+| :--- | :--- | :--- |
+| **S2_DO** | Input (Pushbutton / Switch) | Manual door open request |
+| **S5_DC** | Input (Pushbutton / Switch) | Manual door close request |
+| **S6_Vehicle_Detector_Sensor** | Input (Proximity/Loop Sensor) | Internal vehicle detection sensor; triggers auto-close |
+| **S3_LightSensor** | Input (Photoelectric Sensor) | External light sensor; detects headlight signals |
+| **SW_UL** | Input (Limit Switch - NC) | Upper Limit Switch; detects fully open state and cuts power to opening coil |
+| **SW_LL** | Input (Limit Switch - NC) | Lower Limit Switch; detects fully closed state and cuts power to closing coil |
+| **PB1** | Input (Pushbutton - NC) | Emergency stop 1 (e-stop1) for Door UP circuit |
+| **PB2_ESTOP2** | Input (Pushbutton - NC) | Emergency stop 2 (e-stop1) for Door DOWN circuit |
+| **L1** | Output (Actuator / Coil) | Door UP contactor (interlocked against Door DOWN with NC `L2` contact) |
+| **L2** | Output (Actuator / Coil) | Door DOWN contactor (interlocked against Door UP with NC `L1` contact) |
+| **L3** | Output (Indicator / Actuator) | WARNING Light output |
 
 ![Garage Door Control_Code_ZC.png](PLC/Garage_Door_Control_Code_ZC.png)
 
